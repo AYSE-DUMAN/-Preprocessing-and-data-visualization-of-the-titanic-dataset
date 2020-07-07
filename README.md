@@ -1,2 +1,2 @@
-# -Titanic Veri Seti İle Veri Ön işleme ve Görselleştirme Aşamalarının Gerçekleştirimesi
+# -Titanic Veri Seti ile Veri Ön işleme ve Görselleştirme Aşamalarının Gerçekleştirilmesi
 Kodluyoruz istatistik ve veri ön işleme çalışma grubunda eğitmenimiz tarafından önerilen Titanic veri setini kullanarak  veri ön işleme ve görselleştirme çalışmasını gerçekleştirdim. Bu çalışmada veri setinin betimsel istatistikleri, veri görselleştirmesi, eksik (kayıp) veri analizi yöntemleri (missing value analysis methods) , aykırı değer analizi (outlier detection) yöntemleri  ilgili veri setine uygulanmıştır.
